@@ -1,3 +1,5 @@
+require 'date'
+
 class Patient
   attr_accessor :raw_data, :data
 
