@@ -1,0 +1,7 @@
+Data pre-processed successfully at 12/07/2022 14:23
+Input file: data/input.csv
+Output file: data/output.csv
+Report file: data/output.csv
+Total patients: 14
+Valid patients: 12
+Invalid patients: 2

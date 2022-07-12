@@ -48,9 +48,9 @@ def generate_and_save_report(data, fname_input, fname_output, fname_report)
 end
 
 
-fname_input = "input.csv"
-fname_output = "output.csv"
-fname_report = "report.txt"
+fname_input = "data/input.csv"
+fname_output = "data/output.csv"
+fname_report = "data/report.txt"
 
 raw_data = read_data(fname_input)
 data = preprocess_data(raw_data)
